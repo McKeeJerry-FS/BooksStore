@@ -1,0 +1,51 @@
+﻿@page "/"
+@using Microsoft.AspNetCore.Components.WebAssembly.Hosting
+@inject IBooksService BooksService
+@inject IConfiguration Configuration
+@inject IWebAssemblyHostEnvironment Host
+
+<PageTitle>Home</PageTitle>
+
+
+
+
+@* <BookCard Book="_firstBook" />
+<BookCard Book="_firstBook" WithButton="false" class="mt-3"/> *@
+<h2>Welcome to BooksStore!</h2>
+<h3 class="fs-4">Available Books</h3>
+<hr />
+<div style="display: flex;">
+    @foreach(var book in _books){
+        <BookCard Book="book" OnAddToCartClicked="AddToCart"/>
+    }
+</div>
+
+<hr />
+
+<h3 class="mt-3">My Cart</h3>
+<ul>
+    @foreach(var item in _booksCart){
+        <li>@item?.Title</li>
+    }
+</ul>
+
+
+ <p>API Url: @Configuration["ApiUrl"]</p>
+@*@if(!Host.IsDevelopment()){
+    <p class="text-success">You are in the production Environment</p>
+} else {
+    <p class="text-danger">You're still in the Dev Environment</p>
+} *@
+
+@code{
+    private List<Book> _books = new List<Book>();
+    private List<Book> _booksCart = new List<Book>();
+    protected override async Task OnInitializedAsync(){
+        _books = await BooksService.GetAllBooksAsync();
+    }
+
+    private void AddToCart(Book selectedBook){
+        _booksCart.Add(selectedBook);
+    }
+
+}
