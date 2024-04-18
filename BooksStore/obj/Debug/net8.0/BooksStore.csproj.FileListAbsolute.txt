@@ -1029,3 +1029,4 @@ C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore
 C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\refint\BooksStore.dll
 C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\BooksStore.pdb
 C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\ref\BooksStore.dll
+C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\BooksStore.sourcelink.json
