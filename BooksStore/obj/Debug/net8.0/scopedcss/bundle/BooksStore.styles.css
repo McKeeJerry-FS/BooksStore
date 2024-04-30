@@ -179,3 +179,42 @@ main[b-p4y5dr8cz1] {
     font-size: 13px;
     cursor: pointer;
 }
+/* /Shared/ModalPopup.razor.rz.scp.css */
+.overlay[b-jl430inn5f]{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-box[b-jl430inn5f]{
+    width: 400px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+}
+
+.modal-box .modal-header[b-jl430inn5f]{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 5px 20px;
+}
+
+.modal-box .modal-header .close-button[b-jl430inn5f]{
+    color: red;
+    cursor: pointer;
+}
+
+.modal-box .modal-body .modal-footer[b-jl430inn5f]{
+    padding: 5px 20px;
+}
+
+
+
+
