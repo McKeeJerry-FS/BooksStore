@@ -9,11 +9,22 @@
 
 <button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
 
+<DynamicComponent Type="componentType" Parameters="parameters" />
+
 @code {
+    
     private int currentCount = 0;
 
     private void IncrementCount()
     {
         currentCount++;
     }
+
+    private Type componentType = typeof(SurveyPrompt);
+
+    private Dictionary<string, object> parameters = new()
+    {
+        { "Title", "Welcome to Blazor" }
+    };
+
 }
