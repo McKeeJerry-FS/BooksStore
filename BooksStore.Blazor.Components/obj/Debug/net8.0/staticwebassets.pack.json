@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BooksStore.Blazor.Components.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BooksStore.Blazor.Components.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\background.png",
+      "PackagePath": "staticwebassets\\background.png"
+    },
+    {
+      "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\exampleJsInterop.js",
+      "PackagePath": "staticwebassets\\exampleJsInterop.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BooksStore.Blazor.Components.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BooksStore.Blazor.Components.props",
+      "PackagePath": "build\\BooksStore.Blazor.Components.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BooksStore.Blazor.Components.props",
+      "PackagePath": "buildMultiTargeting\\BooksStore.Blazor.Components.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BooksStore.Blazor.Components.props",
+      "PackagePath": "buildTransitive\\BooksStore.Blazor.Components.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
