@@ -13,67 +13,67 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BooksStore
 build_property.RootNamespace = BooksStore
-build_property.ProjectDir = c:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\
+build_property.ProjectDir = C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore
+build_property.MSBuildProjectDirectory = C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/App.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/Counter.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/UserPages/Index.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/UserPages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXEluZGV4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/UserPages/_Imports.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/UserPages/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlclBhZ2VzXF9JbXBvcnRzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/Weather.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/NavBar.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/NavBar.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdkJhci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/SurveyPrompt.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/UserLayout.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/UserLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFVzZXJMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/_Imports.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Layout/MainLayout.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-p4y5dr8cz1
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Layout/NavMenu.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-0arciyoscm
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/BookCard.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/BookCard.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXEJvb2tDYXJkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = b-0k7rht53qy
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/DataListView.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/DataListView.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXERhdGFMaXN0Vmlldy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-qzsu0wj56b
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/ModalPopup.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore/Shared/ModalPopup.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1vZGFsUG9wdXAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-jl430inn5f
