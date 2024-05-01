@@ -179,6 +179,23 @@ main[b-p4y5dr8cz1] {
     font-size: 13px;
     cursor: pointer;
 }
+/* /Shared/DataListView.razor.rz.scp.css */
+.grid-container[b-qzsu0wj56b] {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    border: 0.5px solid #A3A3A3;
+}
+
+.grid-container .grid-item[b-qzsu0wj56b]{
+    margin: 4px;
+    cursor: pointer;
+}
+
+.grid-container .empty-collection-title[b-qzsu0wj56b]{
+    text-align: center;
+    margin-top: 10px;
+}
 /* /Shared/ModalPopup.razor.rz.scp.css */
 .overlay[b-jl430inn5f]{
     position: fixed;
