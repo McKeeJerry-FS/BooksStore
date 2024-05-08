@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "KP6MJ6qTT0Fs6suQGye3JJjeocG+sxcttQfKof++yrM=",
+  "Hash": "9Dre85747hjj0sYr6QnvS6rPJPdJUFM8LArStJaBcf8=",
   "Source": "BooksStore",
   "BasePath": "/",
   "Mode": "Root",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\blazor-simplemde.js",
+      "SourceId": "BooksStore.Blazor.Components",
+      "SourceType": "Project",
+      "ContentRoot": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\",
+      "BasePath": "_content/BooksStore.Blazor.Components",
+      "RelativePath": "blazor-simplemde.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blazor-simplemde.js"
     },
     {
       "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\exampleJsInterop.js",
@@ -8109,6 +8128,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\wwwroot\\JS\\site.js",
+      "SourceId": "BooksStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "JS/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JS\\site.js"
     },
     {
       "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\wwwroot\\sample-data\\weather.json",

@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\BooksStore.styles.css"
     },
     {
+      "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\wwwroot\\JS\\site.js",
+      "PackagePath": "staticwebassets\\JS\\site.js"
+    },
+    {
       "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\wwwroot\\appsettings.Development.json",
       "PackagePath": "staticwebassets\\appsettings.Development.json"
     },

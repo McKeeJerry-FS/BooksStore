@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\background.png"
     },
     {
+      "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\blazor-simplemde.js",
+      "PackagePath": "staticwebassets\\blazor-simplemde.js"
+    },
+    {
       "Id": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\exampleJsInterop.js",
       "PackagePath": "staticwebassets\\exampleJsInterop.js"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1s2myTf+P/tV3Z4nAkS6Y5kgHOSfkZEVmw/ekEcgYW4=",
+  "Hash": "fLz632O5v7r2VOqCymheEKr4SXpydDSLo0wcO1zb6+4=",
   "Source": "BooksStore.Blazor.Components",
   "BasePath": "_content/BooksStore.Blazor.Components",
   "Mode": "Default",
@@ -72,6 +72,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\background.png"
+    },
+    {
+      "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\blazor-simplemde.js",
+      "SourceId": "BooksStore.Blazor.Components",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\",
+      "BasePath": "_content/BooksStore.Blazor.Components",
+      "RelativePath": "blazor-simplemde.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\blazor-simplemde.js"
     },
     {
       "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore.Blazor.Components\\wwwroot\\exampleJsInterop.js",
