@@ -3,7 +3,11 @@
 @inject IConfiguration Configuration
 @inject IWebAssemblyHostEnvironment Host
 @inject IBooksService BooksService
+@inject NavigationManager Navigation
+@implements IDisposable
 <PageTitle>Index</PageTitle>
+
+<NavigationLock ConfirmExternalNavigation="true" />
 
 <h1>Hello, world!</h1>
 Welcome to our Books Store new app.
@@ -39,7 +43,19 @@ Welcome to our Books Store new app.
 	private List<Book> _books = new List<Book>();
 	protected override async Task OnInitializedAsync()
 	{
+		Navigation.LocationChanged += Navigation_LocationChanged;
 		_books = await BooksService.GetAllBooksAsync();
+	}
+
+	public void Dispose()
+	{
+		Navigation.LocationChanged -= Navigation_LocationChanged;
+	}
+
+
+	private void Navigation_LocationChanged(object? sender, Microsoft.AspNetCore.Components.Routing.LocationChangedEventArgs e)
+	{
+		Console.WriteLine($"The location changed to {e.Location}");
 	}
 
 	private List<Book> _booksCart = new List<Book>();

@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BooksStore",
   "resources": {
-    "hash": "sha256-slpI7vq9ZW5ubCSt7doFlVnCaayIOGGe1ASFGeSVvU0=",
+    "hash": "sha256-8HE//U6wrvjf0Wsu67+M5EebbsgeLSmfIJnypeu74i4=",
     "jsModuleNative": {
       "dotnet.native.8.0.4.e37262l74x.js": "sha256-ju0+XWE0ihz554eKEj0HQ8Opa61xpbUIaX5/MNo8we4="
     },
@@ -208,12 +208,12 @@
       "mscorlib.wasm": "sha256-VCfYgt1mcjITabSTosCDVZ+68ea3Z7kakTFaLNLG+18=",
       "netstandard.wasm": "sha256-YOZxxR9PM3Dltcijfb0Q4FD39DkWZbZ1e2ScbZDvWJ4=",
       "System.Private.CoreLib.wasm": "sha256-NrT1QkAzVU//2wgK9vXdq77lCGvLJ4IOZ+Aegesyanc=",
-      "BooksStore.Blazor.Components.wasm": "sha256-PsE49cCZtxa4QQcWCsjDADsazxORsE/+thTdl2Tp80c=",
-      "BooksStore.wasm": "sha256-Wzsoeflx/Gm/ldPs4Oz54X/vpCLWC5NOiPKNl2Oa6IA="
+      "BooksStore.Blazor.Components.wasm": "sha256-LtgrmF8oQ2zkXIcK66HDiP57VxKGqDjUsbf7mAqa0kg=",
+      "BooksStore.wasm": "sha256-JKrRfsvmHUftlEOqlW2jEBuoDSvAgV+G7Q8gj7NA8kk="
     },
     "pdb": {
-      "BooksStore.Blazor.Components.pdb": "sha256-X5woZGjHGEIShL62xNKzAXOf/kC+sNgnygX47MfLLX0=",
-      "BooksStore.pdb": "sha256-+BXSu4TdnSo76D7sEoFn1Ss8uDFvV36IW82k4OkET1U="
+      "BooksStore.Blazor.Components.pdb": "sha256-V+xu8mR8XjE3eCln414yAFXXb26CnRJe9GvSugJjP9c=",
+      "BooksStore.pdb": "sha256-WfWQGuiD3LPg7vpdnAjx0opv4p/TnG4wp+Pj31XHRsk="
     }
   },
   "cacheBootResources": true,

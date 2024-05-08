@@ -18,6 +18,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore.Blazor.Components
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore.Blazor.Components/InputTime.razor]
+build_metadata.AdditionalFiles.TargetPath = SW5wdXRUaW1lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore.Blazor.Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
