@@ -9,19 +9,19 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows,browser
 build_property.RootNamespace = BooksStore.Blazor.Components
 build_property.RootNamespace = BooksStore.Blazor.Components
-build_property.ProjectDir = c:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore.Blazor.Components\
+build_property.ProjectDir = C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore.Blazor.Components\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore.Blazor.Components
+build_property.MSBuildProjectDirectory = C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore.Blazor.Components
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore.Blazor.Components/_Imports.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore.Blazor.Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore.Blazor.Components/Component1.razor]
+[C:/Users/Jerry McKee Jr/OneDrive/Desktop/Personally Built Application/BooksStore/BooksStore.Blazor.Components/Component1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-0hsrbpvnte

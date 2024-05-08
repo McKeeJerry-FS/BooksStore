@@ -4,15 +4,20 @@
 <PageTitle>Book Details | @_book?.Title</PageTitle>
 
 <div class="card">
-    <div class="card-header">
+    <div class="card-header bg-info">
         <h2>@_book?.Title</h2>
     </div>
-    <div class="card-body">
+    <div class="card-body bg-primary-subtle">
         <p>@_book?.Description</p>
         <ul>
-            <li>Price: $@_book?.Price</li>
             <li>Author: @_book?.AuthorName</li>
+            <li>Pages: @_book?.PagesCount</li>
+            <li>Price: $@_book?.Price</li>
+            <li>Publishing Date: @_book?.PublishingDate</li>
         </ul>
+    </div>
+    <div class="card-footer">
+        <a class="btn btn-warning" href=" ">Home</a>
     </div>
 </div>
 

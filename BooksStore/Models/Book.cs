@@ -8,6 +8,7 @@ public class Book
     public string? Description { get; set;} = string.Empty;
     public DateTime PublishingDate { get; set; }
     public decimal Price { get; set; }
+    public int PagesCount { get; set; }
 
     
 }

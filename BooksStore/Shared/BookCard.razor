@@ -1,6 +1,6 @@
-﻿
+﻿@inject NavigationManager Navigation
 
-<div class="card border border-2 border-black m-3 d-flex" @attributes="UserAttributes">
+<div class="card border border-2 border-black m-3 d-flex" @attributes="UserAttributes" @onclick="NavigateToBookDetails">
     <div class="card-header bg-info">
         <h6 class="fs-4">@Book?.Title</h6>
     </div>
@@ -32,5 +32,10 @@
     private void AddToCart(){
         OnAddToCartClicked.InvokeAsync(Book);
     }    
+
+    private void NavigateToBookDetails(){
+        var url = $"/book/{Book?.Id}";
+        Navigation.NavigateTo(url);
+    }
 }
     
