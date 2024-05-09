@@ -1043,3 +1043,8 @@ C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore
 C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\webcil\BooksStore.Blazor.Components.wasm
 C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\compressed\u35wwqx7l7.gz
 C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\compressed\4k2r4snqz1.gz
+C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm
+C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\bin\Debug\net8.0\wwwroot\_framework\Blazored.LocalStorage.wasm.gz
+C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\bin\Debug\net8.0\Blazored.LocalStorage.dll
+C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
+C:\Users\Jerry McKee Jr\OneDrive\Desktop\Personally Built Application\BooksStore\BooksStore\obj\Debug\net8.0\compressed\byjmjlrbpp.gz

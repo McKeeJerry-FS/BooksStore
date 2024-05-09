@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9Dre85747hjj0sYr6QnvS6rPJPdJUFM8LArStJaBcf8=",
+  "Hash": "+barNDcQJjVSY+LMmpuwCXnYkcv4PUUuc7Lc1WJW4TI=",
   "Source": "BooksStore",
   "BasePath": "/",
   "Mode": "Root",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\8.0.4\\build\\net8.0\\blazor.webassembly.js"
+    },
+    {
+      "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.LocalStorage.wasm",
+      "SourceId": "BooksStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.wasm",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "WasmResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\obj\\Debug\\net8.0\\webcil\\Blazored.LocalStorage.wasm"
     },
     {
       "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\BooksStore.Blazor.Components.pdb",
@@ -5202,6 +5221,25 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Resources.Writer.wasm"
+    },
+    {
+      "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\obj\\Debug\\net8.0\\compressed\\byjmjlrbpp.gz",
+      "SourceId": "BooksStore",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.wasm.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.LocalStorage.wasm",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\bin\\Debug\\net8.0\\wwwroot\\_framework\\Blazored.LocalStorage.wasm"
     },
     {
       "Identity": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\obj\\Debug\\net8.0\\compressed\\c1nelukjbd.gz",

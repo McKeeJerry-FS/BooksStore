@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Cvs/shi6BrJC8P1fkGhGqF3gTxrAHEsB5nvtp176ux6s0RzhGg+FSeRs9rd8FtgoRm+Ae6EPOPYH3SqjOKcJ2A==",
+  "dgSpecHash": "l2EP/DuftLQQ7Ko5YJWSM/d7M8Dsm7wZeS3NCj3GLHhPR4QTH08mjrIeoi7X4dqc5AFRsd2WN9DQPW8wsrIgcQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jerry McKee Jr\\OneDrive\\Desktop\\Personally Built Application\\BooksStore\\BooksStore\\BooksStore.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\blazored.localstorage\\4.5.0\\blazored.localstorage.4.5.0.nupkg.sha512",
     "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",
     "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\8.0.4\\microsoft.aspnetcore.components.analyzers.8.0.4.nupkg.sha512",

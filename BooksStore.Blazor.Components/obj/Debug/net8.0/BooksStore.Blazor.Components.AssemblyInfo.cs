@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BooksStore.Blazor.Components")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ad99824a9511f3965536b638edb36b643d7e7db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04a4d620b67d2506e896e85f76a502b3f0bbfaf7")]
 [assembly: System.Reflection.AssemblyProductAttribute("BooksStore.Blazor.Components")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BooksStore.Blazor.Components")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
